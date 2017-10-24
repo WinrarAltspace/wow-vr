@@ -9,16 +9,23 @@
   <a-assets>
     <a-asset-item id="murloc-obj" src="murloc.obj"></a-asset-item>
     <a-asset-item id="murloc-mtl" src="murloc.mtl"></a-asset-item>
-    <a-mixin id='murloc'
-    
-			n-skeleton-parent='part: head'
+    <a-mixin id="parent-to-head"
 
-			collapse-model sync sync-n-skeleton-parent
-                                          
-    ></a-mixin>
+					n-skeleton-parent="part: head;"
+
+					sync sync-n-skeleton-parent></a-mixin>
+<a-mixin id="murloc-helmet"
+
+					obj-model="obj: #murloc-obj; mtl: #murloc-mtl" collapse-model></a-mixin>
                                                                     
   </a-assets>
-  <a-entity one-per-user='mixin: murloc;'></a-entity>
+  <a-entity
+
+				id="initial-synced-box"
+
+				one-per-user="mixin: murloc-helmet parent-to-head">
+
+			</a-entity>
 </a-scene>
  </body>
 </html>
