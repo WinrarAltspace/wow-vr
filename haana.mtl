@@ -1,0 +1,180 @@
+#
+# mtl file for haana.obj obj file
+#
+
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_102
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_401
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_501
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_702
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_1301
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_601
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_1301
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_1801
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_005_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hair00_00_hd.png
+newmtl character/draenei/female/draeneifemale_hd.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_Body.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/head/helm_circlet_a_01_drf.m2_Geoset_000_Dbl
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_helm_blindfold_a_01red.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000_Lum
+illum 2
+Kd 0.000000 0.000000 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
+newmtl item/objectcomponents/weapon/hand_1h_artifactskywall_d_01.m2_Geoset_000
+illum 2
+Kd 1.000000 1.000000 1.000000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd haana_hand_1h_artifactskywall_d_01_blue.png
